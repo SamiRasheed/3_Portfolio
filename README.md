@@ -1,4 +1,4 @@
-# Porolio using React JS with Fully Responsiveness
+# Porfolio using React JS with Fully Responsiveness
 
 ![portfolio (1)](https://github.com/SamiRasheed/3_Portfolio/assets/129277243/06c592f7-eb27-492e-8251-64833b43c61f)
 
