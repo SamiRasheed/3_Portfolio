@@ -30,6 +30,10 @@
 }
 
 @media screen and (max-width: 1040px) {
+  .header {
+    font-size: 0.7rem;
+    font-style: italic;
+  }
   .nav-menu {
     flex-direction: column;
     justify-content: center;
